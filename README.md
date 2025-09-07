@@ -4,7 +4,7 @@ A fully functional website developed for a local packing and shipping company. I
 ---
 
 ## 📸 Website Link
-[click here](https://www.canadianpackandship.com/)
+[View the live website](https://www.canadianpackandship.com/)
 
 ---
 
