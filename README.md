@@ -1,14 +1,14 @@
-# Packing & Shipping Company Website 🌐
+# Packing & Shipping Company Website
 A fully functional website developed for a local packing and shipping company. Includes client-side and server-side functionality.
 
 ---
 
-## 📸 Website Link
+## Website Link
 [View the live website](https://www.canadianpackandship.com/)
 
 ---
 
-## 🔧 Features
+## Features
 - Fully responsive website
 - Contact form with PHP backend
 - Interactive UI and navigation
@@ -16,14 +16,14 @@ A fully functional website developed for a local packing and shipping company. I
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 - HTML, CSS, JavaScript
 - PHP backend
 - Node.js
 
 ---
 
-## 👨‍💻 My Role
+## My Role
 - Designed front-end pages
 - Developed PHP backend for forms
 - Deployed website on hosting server
